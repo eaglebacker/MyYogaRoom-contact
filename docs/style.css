@@ -22,12 +22,17 @@ li a:hover {
   width:100%;
   text-align:center;
       background-color: rgba(66, 197, 190, 1);
-  
+  position:fixed;
+  top:-3px;
+  left:-3px;
+  right:-3px;
 }
 #header {
   text-align:center;
   font-size:30px;
   font-family:Rockwell;
+  position:relative;
+  top:10px;
     
 }
 #mainimg {
