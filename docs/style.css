@@ -74,3 +74,8 @@ li a:hover {
   background-color:rgba(66, 197, 190, 1);
   
 }
+#mapouter {
+  display:block;
+  margin-right:auto;
+  margin-left:auto;
+}
